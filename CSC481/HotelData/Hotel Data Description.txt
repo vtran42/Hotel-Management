@@ -1,0 +1,94 @@
+﻿Hotel Management Data Description
+1. Customer Object
+2. Staff Object
+3. Hotel Asset
+
+**** HotelAsset ***********
+Room Number
+Room Type (Vip, Economic, regular)
+Room Status (Available, hold, or Unavailable)
+Number of Beds (min = 1, and max = 4)
+Bed Sizes (doublet, queen, king, twin)
+Condition (good, bad)
+Area (square feet)
+Price
+
+***** ROOM TYPE ********
+Id
+Name of room type
+
+*** ROOM STATUS ***********
+Id
+Name
+
+**** STATUS *****
+ID
+Name: Available, Economic, regular
+Descrition about the name
+
+******** Hotel Account **********
+UserId
+Fee
+Charges
+Created
+
+**** Customer ********
+UserId
+Email
+Password
+Last Name
+First Name
+Middle Name
+Address (street, Apt, City, State, ZipCode)
+Phone
+HotelAccountID
+
+
+******** Staff ***** INHERITE into the customer
+Social Security Number
+Postion (Cashier, Janitor, CEO, Accounting)
+Emergency Contact(Last Name, Fist Name, Relative, phone)
+
+********* CHECK OUT HISTORY **********
+ID (confirmation number)
+HotelAsset
+HotelAccountId
+Check out
+check in
+
+***** Hold ******
+Id
+HotelAssetId
+Hotel AccountID
+HoldTime
+
+
+
+*************************** 
+DELETE DATABASE
+DECLARE @Sql NVARCHAR(500) DECLARE @Cursor CURSOR
+
+SET @Cursor = CURSOR FAST_FORWARD FOR
+SELECT DISTINCT sql = 'ALTER TABLE [' + tc2.TABLE_NAME + '] DROP [' + rc1.CONSTRAINT_NAME + ']'
+FROM INFORMATION_SCHEMA.REFERENTIAL_CONSTRAINTS rc1
+LEFT JOIN INFORMATION_SCHEMA.TABLE_CONSTRAINTS tc2 ON tc2.CONSTRAINT_NAME =rc1.CONSTRAINT_NAME
+
+OPEN @Cursor FETCH NEXT FROM @Cursor INTO @Sql
+
+WHILE (@@FETCH_STATUS = 0)
+BEGIN
+Exec sp_executesql @Sql
+FETCH NEXT FROM @Cursor INTO @Sql
+END
+
+CLOSE @Cursor DEALLOCATE @Cursor
+GO
+
+EXEC sp_MSforeachtable 'DROP TABLE ?'
+GO
+
+
+****************** 
+cls
+add-migration "name"
+update-database

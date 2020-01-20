@@ -1,0 +1,35 @@
+﻿@{ ViewData["Title"] = "Booking";}
+<br/>
+<br />
+
+<form>
+    <div>
+        <table class="table table-striped">
+            <thead style="color:blue;background-color:yellow">
+                <tr>
+                    <th>Starting Date</th>
+                    <th>Ended Date</th>
+                    <th>Number of Bed</th>
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="date" name="startdate" min="@DateTime.Now" placeholder="minimum date @DateTime.Now" /></td>
+                    <td><input type="date" name="startdate" min="@DateTime.Now" placeholder="minimum date @DateTime.Now" /></td>
+                    <td>
+                        <select name=" numberOfBed">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                        </select>
+
+                    </td>
+                    <td><button type="submit" class="btn btn-primary btn-sm">Search</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</form>

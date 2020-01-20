@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2CD723B7-D891-46BD-A178-DC616FE375AD}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSC481 PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelData/Migrations/20181119034510_initialize Hotel.cs">
+    <Files>
+      <File FileName="CSC481/Views/Home/About.cshtml" Line="7" Column="1" />
+      <File FileName="CSC481/Views/HotelAsset/Index.cshtml" Line="15" Column="18" />
+      <File FileName="HotelData/Migrations/20181119034510_initialize Hotel.cs" Line="20" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSC481" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

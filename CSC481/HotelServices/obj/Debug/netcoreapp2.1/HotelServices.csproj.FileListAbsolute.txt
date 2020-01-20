@@ -1,0 +1,24 @@
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelServices.deps.json
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelServices.dll
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelServices.pdb
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.csprojAssemblyReference.cache
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.csproj.CoreCompileInputs.cache
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.AssemblyInfoInputs.cache
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.AssemblyInfo.cs
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.dll
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.pdb
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelData.dll
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelData.pdb
+C:\Users\vincent\Documents\WebSite\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.csproj.CopyComplete
+E:\Course_Taken\CSC 481\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelServices.deps.json
+E:\Course_Taken\CSC 481\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelServices.dll
+E:\Course_Taken\CSC 481\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelServices.pdb
+E:\Course_Taken\CSC 481\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelData.dll
+E:\Course_Taken\CSC 481\CSC481\HotelServices\bin\Debug\netcoreapp2.1\HotelData.pdb
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.csprojAssemblyReference.cache
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.csproj.CoreCompileInputs.cache
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.AssemblyInfoInputs.cache
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.AssemblyInfo.cs
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.csproj.CopyComplete
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.dll
+E:\Course_Taken\CSC 481\CSC481\HotelServices\obj\Debug\netcoreapp2.1\HotelServices.pdb

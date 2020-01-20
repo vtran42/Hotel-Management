@@ -1,0 +1,32 @@
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.deps.json
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.dll
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.csproj.CoreCompileInputs.cache
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.AssemblyInfoInputs.cache
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.AssemblyInfo.cs
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.runtimeconfig.json
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.runtimeconfig.dev.json
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.pdb
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.dll
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.pdb
+C:/Users/vincent/Documents/WebSite/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.csprojAssemblyReference.cache
+E:/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.deps.json
+E:/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.runtimeconfig.json
+E:/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.runtimeconfig.dev.json
+E:/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.dll
+E:/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.pdb
+E:/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.csprojAssemblyReference.cache
+E:/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.csproj.CoreCompileInputs.cache
+E:/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.AssemblyInfoInputs.cache
+E:/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.AssemblyInfo.cs
+E:/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.dll
+E:/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.pdb
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.csprojAssemblyReference.cache
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.AssemblyInfoInputs.cache
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.AssemblyInfo.cs
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.dll
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/obj/Debug/netcoreapp2.1/HotelData.pdb
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.deps.json
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.runtimeconfig.json
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.runtimeconfig.dev.json
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.dll
+/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/bin/Debug/netcoreapp2.1/HotelData.pdb

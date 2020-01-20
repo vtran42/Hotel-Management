@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelServices/HotelServices.csproj": {}
+  },
+  "projects": {
+    "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/HotelData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/HotelData.csproj",
+        "projectName": "HotelData",
+        "projectPath": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/HotelData.csproj",
+        "packagesPath": "/Users/vincenttran/.nuget/packages/",
+        "outputPath": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vincenttran/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelServices/HotelServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelServices/HotelServices.csproj",
+        "projectName": "HotelServices",
+        "projectPath": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelServices/HotelServices.csproj",
+        "packagesPath": "/Users/vincenttran/.nuget/packages/",
+        "outputPath": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelServices/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vincenttran/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/HotelData.csproj": {
+                "projectPath": "/Volumes/VTUSB/Course_Taken/CSC 481/CSC481/HotelData/HotelData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

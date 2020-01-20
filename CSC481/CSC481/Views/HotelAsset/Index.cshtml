@@ -1,0 +1,44 @@
+﻿@model CSC481.Models.HotelAsset.AssetIndexModel
+@{ 
+    ViewBag.Title = "Hotel Asset Information";
+}
+<h1>@ViewBag.Title</h1>
+<div>
+    <h3>Room Information, display only available room</h3>
+    <form>
+        <div>
+            <table class="table table-striped" id="RoomIndexTable">
+                <thead style="color:blue;background-color:yellow">
+                    <tr>
+                        <th>Room number</th>
+                        <th>Bed Size</th>
+                        <th>Room Type</th>
+                        <th>Area(square feet)</th>
+                        <th>Price ($)</th>
+                        <th>Booking</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var asset in Model.Assets)
+                    {
+                        @if (asset.GetRoomStatus.Equals("Available"))
+                        {
+                            <tr>
+                                <td class="btn-group-lg">@asset.RoomNumber</td>
+                                <td>@asset.GetBedSize</td>
+                                <td>@asset.GetRoomType</td>
+                                <td>@asset.GetRoomArea</td>
+                                <td>@asset.GetRoomPrice</td>
+
+                                <td><button type="submit" class="btn btn-primary btn-sm">Book</button></td>
+
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </form>
+    
+
+</div>
